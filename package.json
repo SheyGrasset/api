@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheyGrasset/api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheyGrasset/api/issues"
+  },
+  "homepage": "https://github.com/SheyGrasset/api#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
